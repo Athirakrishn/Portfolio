@@ -1,9 +1,71 @@
 *{
   margin: 0px;
   padding: 0px;
-  
 }
 span{
-  color: blue;
+  color: rgb(5, 129, 129);
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.button{
+  background-color: rgb(219, 157, 64);
+}
+
+.nav-item a:hover{
+  color:aqua
+}
+
+.btn1:hover{
+ background-color: rgb(5, 129, 129);
+}
+
+.footer1{
+  padding:0px;
+  background-color: rgb(163, 161, 161,0.4);
+}
+.hire{
+  height:150px;
+  background-color: rgba(10, 63, 63, 0.8);
+}
+/* .cont{
+  background-color: rgba(244, 245, 245, 0.2);
+} */
+.col-6 img{
+ width: 40px;
+ height: 40px;
+}
+#homes{
+  margin-top: 120px;
+}
+#homes h1{
+  font-size: 3.5rem;
+}
+
+ 
+
+.custom-progress {
+  height: 6px; 
+  background-color:  #e7952a;
+  border-radius: 10px;
+}
+
+.custom-progress .progress-bar {
+  border-radius: 10px;
+}
+
+.custom-progress .progress-bar {
+  border-radius: 10px;
+  background-color: rgba(10, 63, 63, 0.8);
+}
+#works{
+  background-color: rgb(148, 151, 151,0.2);
+}
+
+#homes{
+
+  height: 450px; 
+   padding-left: 400px%;
+background-repeat: no-repeat;
+background-size: cover;
 }
 
